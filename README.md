@@ -11,7 +11,7 @@ Example: if query has "籃球" , "選手"
 
 then the trie will build like this
 
-![image](https://imgur.com/5GZBNDD)
+![image](https://imgur.com/5GZBNDD.png)
 
 
 ### Functions
